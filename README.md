@@ -5,6 +5,8 @@ This experiment investigates the neural correlates of rhythmic speech imagery. P
 
 ## Experiment Timeline
 
+![Timeline](figures/timeline.png)
+
 1. **Resting Phase (0-30s)**: Baseline recording with the participant in a relaxed state.
 2. **Instruction Phase (30-40s)**: Visual cues are presented to indicate the upcoming speech imagery task.
 3. **Imagery Phase (40-100s)**: Participant imagines the rhythmic speech pattern.
